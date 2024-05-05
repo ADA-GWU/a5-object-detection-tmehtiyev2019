@@ -17,9 +17,10 @@ This assignment involves recognizing text from small-sized documents, including 
    ```
 
 3.**Run the code:**
-  ```bash
-  python main.py
+   ```bash
+    python main.py
    ```
+
 
 ## Usage Instructions
 
